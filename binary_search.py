@@ -29,4 +29,3 @@ def binary_search(lst, x):
 lst = [-100, -24, -4, 2, 8, 34, 49, 99, 194]
 print(2, binary_search(lst, 2))
 print(3, binary_search(lst, 3))
-
